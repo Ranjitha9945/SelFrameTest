@@ -8,6 +8,7 @@ public class CampainsTest
 	public void createCampaign()
 	{
 		System.out.println("execute createCampaign");
+		System.out.println("execute createCampaign");
 	}
 
 	@Test(groups="regressionTest")
