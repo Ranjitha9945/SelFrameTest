@@ -8,6 +8,7 @@ public class ContactTest
 	public void createContact()
 	{
 		System.out.println("execute createContact");
+		System.out.println("createContact");
 	}
 
 	@Test(groups="regressionTest")
